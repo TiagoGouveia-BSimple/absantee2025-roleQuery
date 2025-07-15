@@ -7,5 +7,5 @@ namespace Domain.IFactory;
 public interface IRoleFactory
 {
     Task<IRole> Create(string description);
-    Role Create(IRoleVisitor visitor);
+    IRole Create(IRoleVisitor visitor);
 }

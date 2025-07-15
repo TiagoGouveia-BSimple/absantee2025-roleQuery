@@ -13,7 +13,7 @@ public class RoleFactory : IRoleFactory
         return new Role(Guid.NewGuid(), description);
     }
 
-    public Role Create(IRoleVisitor visitor)
+    public IRole Create(IRoleVisitor visitor)
     {
         return new Role(visitor.Id, visitor.Description);
     }
