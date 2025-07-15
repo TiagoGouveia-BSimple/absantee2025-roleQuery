@@ -12,7 +12,7 @@ namespace Infrastructure.Repository;
 public class RoleRepository : GenericRepositoryEF<IRole, Role, RoleDataModel>, IRoleRepository
 {
     private readonly IMapper _mapper;
-    public RoleRepository(DbContext context, IMapper mapper) : base(context, mapper)
+    public RoleRepository(RoleContext context, IMapper mapper) : base(context, mapper)
     {
         _mapper = mapper;
     }

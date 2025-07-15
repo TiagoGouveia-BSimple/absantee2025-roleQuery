@@ -14,7 +14,7 @@ public class ConstructorTests
         // Arrange
 
         // Act
-        new RoleRepository(It.IsAny<DbContext>(), It.IsAny<IMapper>());
+        new RoleRepository(It.IsAny<RoleContext>(), It.IsAny<IMapper>());
 
         // Assert
     }

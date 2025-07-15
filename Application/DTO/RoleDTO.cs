@@ -9,4 +9,10 @@ public record RoleDTO
     {
 
     }
+
+    public RoleDTO(Guid id, string description)
+    {
+        Id = id;
+        Description = description;
+    }
 }

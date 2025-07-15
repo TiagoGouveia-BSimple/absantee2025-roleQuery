@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XUa7Z1jypBk=",
+  "dgSpecHash": "1V0LSqYY9Vc=",
   "success": true,
   "projectFilePath": "C:\\Users\\tiagogouveia\\Desktop\\classes\\absantee2025-roleQuery\\Infrastructure.Tests\\Infrastructure.Tests.csproj",
   "expectedPackageFiles": [
@@ -12,10 +12,10 @@
     "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.7\\microsoft.entityframeworkcore.abstractions.9.0.7.nupkg.sha512",
     "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.7\\microsoft.entityframeworkcore.analyzers.9.0.7.nupkg.sha512",
     "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\9.0.7\\microsoft.entityframeworkcore.inmemory.9.0.7.nupkg.sha512",
-    "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.1\\microsoft.entityframeworkcore.relational.9.0.1.nupkg.sha512",
+    "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.3\\microsoft.entityframeworkcore.relational.9.0.3.nupkg.sha512",
     "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.7\\microsoft.extensions.caching.abstractions.9.0.7.nupkg.sha512",
     "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.7\\microsoft.extensions.caching.memory.9.0.7.nupkg.sha512",
-    "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.1\\microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.3\\microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.7\\microsoft.extensions.dependencyinjection.9.0.7.nupkg.sha512",
     "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512",
     "C:\\Users\\tiagogouveia\\.nuget\\packages\\microsoft.extensions.logging\\9.0.7\\microsoft.extensions.logging.9.0.7.nupkg.sha512",

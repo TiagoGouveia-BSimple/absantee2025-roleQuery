@@ -14,3 +14,5 @@ C:\Users\tiagogouveia\Desktop\classes\absantee2025-roleQuery\Infrastructure\obj\
 C:\Users\tiagogouveia\Desktop\classes\absantee2025-roleQuery\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
 C:\Users\tiagogouveia\Desktop\classes\absantee2025-roleQuery\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 C:\Users\tiagogouveia\Desktop\classes\absantee2025-roleQuery\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\tiagogouveia\Desktop\classes\absantee2025-roleQuery\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Users\tiagogouveia\Desktop\classes\absantee2025-roleQuery\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
